@@ -1,0 +1,296 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+#ulNav{
+    margin-left:23%;
+}
+
+#ulNav>li{
+    margin-left:70px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    
+}
+#ulNav>li>a{
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#ulNav>li>a:hover {
+    color:red !important;
+}
+body{
+    background-image:linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    linear-gradient(127deg, black, black 70.71%),
+    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+.navbar{
+    background-color: transparent !important;
+    border-color:transparent !important;
+}
+
+  .long{
+      width: 100%;
+  }
+
+.sub-tit{
+
+    color: white;   
+}
+.cover {
+    width: 100%;
+    height: 400px;
+    background: url('C:/Users/Sameh felhi/Desktop/gomycode/first step/res/course.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom:100px;
+    box-sizing: border-box;
+    display:inline-block;
+}
+
+.cover .heading {
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    position: relative;
+    top: 40%;
+    text-shadow: 5px 2px rgb(12, 11, 11);
+   
+}
+
+#btn{
+    background-color:rgb(180, 176, 230);
+    margin: 10px;
+    padding: 0%;
+}
+
+.header{
+    color: white;
+    margin-left:35%;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+.picture1{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display: inline-block;
+    background-image:url(../res/1.png);
+    background-size: cover;
+    overflow:hidden;
+
+}
+.picture1:hover{
+background-image: black;
+opacity: 0.5;
+
+}
+.btn1{
+margin-top: 120px;
+display: none;
+}
+.picture2{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display: inline-block;
+    background-image:url(../res/3.png);
+    background-size: cover;
+    overflow:hidden;
+
+}
+.picture2:hover{
+background-image: black;
+opacity: 0.5;
+
+}
+.btn2{
+margin-top: 120px;
+display:none;
+}
+.picture3{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display: inline-block;
+    background-image:url(../res/2.jpg);
+    background-size: cover;
+    overflow:hidden;
+
+}
+.picture3:hover{
+background-image: black;
+opacity: 0.5;
+
+}
+.btn3{
+margin-top: 120px;
+display:none;
+}
+
+
+.picture4{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display: inline-block;
+    background-image:url(../res/3.png);
+    background-size: cover;
+    overflow:hidden;
+
+
+}
+.picture4:hover{
+background-image: black;
+opacity: 0.5;
+
+}
+.btn4{
+margin-top: 150px;
+display: none;
+}
+
+.picture5{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    background-image:url(../res/4.png);
+    background-size: cover;
+    display: inline-block;
+    overflow:hidden;
+
+
+}
+.picture5:hover{
+background-image: black;
+opacity: 0.5;
+
+}
+.btn5{
+    margin-top: 150px;
+    display: none;
+}
+.picture6{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    background-image:url(../res/images.jpg);
+    background-size: cover;
+    display: inline-block;
+    overflow:hidden;
+
+}
+.picture6:hover{
+background-image: black;
+opacity: 0.5;
+
+}
+.btn6{
+    margin-top: 150px;
+    display: none;
+}
+.picture7{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    background-image:url(../res/web-dev.jpg);
+    background-size: cover;
+    display: inline-block;
+    overflow:hidden;
+
+}
+.picture7:hover{
+background-image: black;
+opacity: 0.5;
+
+}
+.btn7{
+margin-top: 120px;
+display: none;
+}
+.picture8{
+    width:250px;
+    height:250px;
+    margin-left:70px;
+    background-image:url(../res/2.jpg);
+    background-size: cover;
+    display: inline-block;
+    overflow:hidden;
+
+
+}
+.picture8:hover{
+background-image: black;
+opacity: 0.5;
+
+}
+.btn8{
+margin-top: 120px;
+display: none;
+}
+
+.picture9{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    background-image:url(../res/1.png);
+    background-size: cover;
+    display: inline-block;
+    overflow:hidden;
+
+
+}
+.picture9:hover{
+background-image: black;
+opacity: 0.5;
+
+}
+.btn9{
+margin-top: 120px;
+display: none;
+}
+.btn1Hover{
+    display:inline !important;
+    opacity: 1 !important;
+}
+
+.course{
+    width:250px;
+    height:250px;
+    margin-left:50px;
+    display:inline-block;
+    background-image:url('../res/tracks/Objet\ dynamique\ vectoriel1.png');
+    background-size: cover;
+    overflow:hidden;
+}
+.course:hover{
+    background-color:black;
+    opacity: 0.5;
+}
+.btnCourses{
+    margin-top:120px;
+    display:none;
+}
+#fade{
+    display:none;
+}
+#contactForm>div>input{
+    width:250px;
+}
+#contactForm>div>select{
+    width:250px;
+}
+label{
+    color:white !important;
+}
